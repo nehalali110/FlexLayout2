@@ -1,35 +1,36 @@
-#FlexLayoutChallenge2
+# FLEXLAYOUTCHALLENGE2
 
-##Description
+## Description
 
 This project is a static webpage layout created using HTML and CSS. It includes the following sections:
 
-    Navbar
-    Hero section
-    Products section
-    Quotes section
-    Call to Action section
-    Footer
+- Navbar
+- Hero section
+- Products section
+- Quotes section
+- Call to Action section
+- Footer
 
 The layout is designed using Flexbox, following a lesson from The Odin Project.
 
-##Preview
+## Preview
 
 [Add a screenshot or link to a live demo if available]
-Technologies Used
 
-    HTML
-    CSS (Flexbox)
+## Technologies Used
 
-##How to Use
+- HTML
+- CSS (Flexbox)
 
-    Clone the repository.
-    Open the index.html file in your web browser to view the webpage.
+## How to Use
 
-##Contributors
+1. Clone the repository.
+2. Open the `index.html` file in your web browser to view the webpage.
 
-    Nehal Ali
+## Contributors
 
-##Acknowledgements
+- [Nehal Ali](https://github.com/nehalali110)
+
+## Acknowledgements
 
 Special thanks to The Odin Project for the excellent lesson on Flexbox.
