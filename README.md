@@ -15,7 +15,7 @@ The layout is designed using Flexbox, following a lesson from The Odin Project.
 
 ## Preview
 
-[Add a screenshot or link to a live demo if available]
+[[here](https://nehalali110.github.io/FlexLayout2/)]
 
 ## Technologies Used
 
