@@ -1,4 +1,4 @@
-FlexLayoutChallenge2
+#FlexLayoutChallenge2
 
 ##Description
 
@@ -21,7 +21,7 @@ Technologies Used
     HTML
     CSS (Flexbox)
 
-How to Use
+##How to Use
 
     Clone the repository.
     Open the index.html file in your web browser to view the webpage.
